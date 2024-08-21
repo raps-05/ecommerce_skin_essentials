@@ -1,5 +1,5 @@
 # Skin Care Essentials(Ecommerce website)
-Link: https://66c53fc8d43d7c9b7be5e488--ornate-cupcake-920dd1.netlify.app/
+Link: https://ecommerce-skin-essentials-next24-task.netlify.app/
 
 Welcome to the Skin Care Essentials project! This project provides a comprehensive solution for managing skincare products, including their details, usage instructions, and customer feedback. Whether you're a skincare enthusiast or a business owner, this platform is designed to enhance your skincare experience.
 ![image](https://github.com/user-attachments/assets/3e3a76d2-9a0a-46fe-bb41-03b8e8b8f86e)
