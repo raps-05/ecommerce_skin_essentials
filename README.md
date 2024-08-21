@@ -26,10 +26,3 @@ To set up the Skin Care Essentials project on your local machine, follow these s
    git clone https://github.com/raps-05/ecommerce_skincare_/new/main?filename
 
 
-### **Notes:**
-
-- **Plagiarism Detection:** This `README.md` file is written with original content and does not replicate any other sources. Always ensure your content is original to avoid plagiarism issues.
-- **AI Detection:** While AI-generated content might be detectable, this sample is crafted to mimic natural writing. For more personalization, you can adjust the tone and style based on your own preferences and the specifics of your project.
-
-Feel free to modify this template to better fit your project's unique features and requirements.
-
