@@ -16,13 +16,6 @@ Welcome to the Skin Care Essentials project! This project provides a comprehensi
 - ![image](https://github.com/user-attachments/assets/585a8461-ca03-4a0c-9d27-e7469d6e023e)
 
 
-## Installation
 
-To set up the Skin Care Essentials project on your local machine, follow these steps:
-
-1. **Clone the Repository:**
-
-   ```sh
-   git clone https://github.com/raps-05/ecommerce_skincare_/new/main?filename
 
 
